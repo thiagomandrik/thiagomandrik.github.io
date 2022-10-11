@@ -1,0 +1,12 @@
+.sobre__imagem{
+    height: 300px;
+    width: 300px;
+    z-index: 5;
+    /* margin: 0 auto; */
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url("../../img/foto-perfil-sem-fundo.png");
+    position: relative;
+}

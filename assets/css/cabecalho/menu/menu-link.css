@@ -1,0 +1,11 @@
+.menu__link{
+    color: #EEEEEE;
+    margin-right: 1.25rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.menu__link:hover{
+    text-shadow: 0 2px 2px #c2c2c2;
+    
+}

@@ -1,0 +1,17 @@
+@import "./normalize.css";
+@import "./reset.css";
+
+@import "./cabecalho/cabecalho.css";
+@import "./cabecalho/cabecalho-titulo.css";
+
+@import "./cabecalho/menu/menu-lista.css";
+@import "./cabecalho/menu/menu-item.css";
+@import "./cabecalho/menu/menu-link.css";
+
+@import "./sobre/sobre.css";
+@import "./sobre/sobre-imagem.css";
+@import "./sobre/sobre-imagem-circulo.css";
+
+body{
+    font-family: Helvetica, sans-serif;
+}
