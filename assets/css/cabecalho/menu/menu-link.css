@@ -1,11 +1,22 @@
 .menu__link{
-    color: #EEEEEE;
-    margin-right: 1.25rem;
+    color: #C8B7B7;
+    /* margin-right: 3rem; */
     text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     text-transform: uppercase;
+    font-weight: 500;
+    text-shadow: 0 0 1px  #C8B7B7;
+    font-size: 1.123rem
 }
 
 .menu__link:hover{
-    text-shadow: 0 2px 2px #c2c2c2;
+    /* text-shadow: 0 2px 2px #c2c2c2; */
+    background-color: #5C2E30;
+    border-style: solid;
+    border-color: #5C2E30;
+    border-radius: 4px;
     
 }

@@ -1,0 +1,16 @@
+.sobre{
+    
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: row; */
+    
+    padding-top: 10rem;
+    padding-bottom: 8rem;
+    /* text-align: center; */
+    justify-content: space-around;
+    /* padding-left: 20%;
+    padding-right: 20%;
+    width: 60%; */
+    /* height: 500px; */
+    position: relative;
+}

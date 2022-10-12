@@ -2,16 +2,18 @@
 @import "./reset.css";
 
 @import "./cabecalho/cabecalho.css";
-@import "./cabecalho/cabecalho-titulo.css";
-
 @import "./cabecalho/menu/menu-lista.css";
 @import "./cabecalho/menu/menu-item.css";
 @import "./cabecalho/menu/menu-link.css";
 
-@import "./sobre/sobre.css";
-@import "./sobre/sobre-imagem.css";
-@import "./sobre/sobre-imagem-circulo.css";
+@import "./sobre.css";
+@import "./sobreMim/sobreMim.css";
+@import "./sobreMim/sobreMim-imagem.css";
+@import "./sobreMim/sobreMim-nome.css";
+@import "./sobreMim/sobreMim-tracoHorizontal.css";
+@import "./sobreMim/sobreMim-subtitulo.css";
 
 body{
-    font-family: Helvetica, sans-serif;
+    font-family: Montserrat, sans-serif;
+    background-color: #1A1A1A;
 }

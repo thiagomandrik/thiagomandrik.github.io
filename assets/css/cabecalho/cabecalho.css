@@ -1,9 +1,12 @@
 .cabecalho{
     align-items: center;
-    background-color: #393E46;
+    background-color: #242424;
     display: flex;
-    justify-content: space-between;
-    padding-left: 10rem;
-    padding-right: 10rem;
     height: 5rem;
+    justify-content: space-around;
+    position: fixed;
+    width: 100%;
+    z-index: 90000;
+    /* background: rgb(13,13,13);
+    background: linear-gradient(180deg, rgba(13,13,13,1) 7%, rgba(26,26,26,1) 64%); */
 }
