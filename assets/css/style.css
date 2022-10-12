@@ -1,6 +1,8 @@
 @import "./normalize.css";
 @import "./reset.css";
 
+@import "./scrollCustom.css";
+
 @import "./cabecalho/cabecalho.css";
 @import "./cabecalho/menu/menu-lista.css";
 @import "./cabecalho/menu/menu-item.css";

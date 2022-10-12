@@ -1,22 +1,28 @@
 .menu__link{
     color: #C8B7B7;
-    /* margin-right: 3rem; */
     text-decoration: none;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     padding-left: 20px;
     padding-right: 20px;
     text-transform: uppercase;
     font-weight: 500;
     text-shadow: 0 0 1px  #C8B7B7;
-    font-size: 1.123rem
+    font-size: 1.123rem;
+    position: relative;
 }
 
-.menu__link:hover{
-    /* text-shadow: 0 2px 2px #c2c2c2; */
-    background-color: #5C2E30;
-    border-style: solid;
-    border-color: #5C2E30;
-    border-radius: 4px;
-    
+.menu__link:after{
+    position: absolute;
+    left: 50%;
+	content: '';
+	height: 2px;
+    background: #5c2e30;
+    transition: all 0.2s linear;
+    width: 0;
+    bottom: -5px;
+}
+
+.menu__link:hover:after {
+	width: 100%;
+    margin-left: -50%;
 }

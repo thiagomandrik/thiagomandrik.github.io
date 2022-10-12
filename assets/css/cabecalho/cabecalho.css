@@ -1,6 +1,8 @@
 .cabecalho{
     align-items: center;
-    background-color: #242424;
+    /* background-color: #242424; */
+    background-color: #1A1A1A;
+    border-bottom: #242424 solid 3px;
     display: flex;
     height: 5rem;
     justify-content: space-around;
