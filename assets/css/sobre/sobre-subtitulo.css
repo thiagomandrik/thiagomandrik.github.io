@@ -1,0 +1,17 @@
+.sobre__subtitulo{
+    text-transform: uppercase;
+    color: #C8B7B7;
+    text-shadow: 0 0 2px #C8B7B7;
+}
+
+@media screen and (min-width: 0){
+    .sobre__subtitulo{
+        font-size: 1rem;
+    }
+}
+
+@media screen and (min-width: 900px){
+    .sobre__subtitulo{
+        font-size: 1.5rem
+    }
+}

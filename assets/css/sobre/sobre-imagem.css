@@ -1,0 +1,24 @@
+.sobre__imagem{
+    border-radius: 100%;
+    border-style: solid;
+    border-color: #5C2E30;
+    box-shadow: 0 0 5px #5C2E30;
+    height: 250px;
+    width: 250px;
+    position: relative;
+}
+
+
+@media screen and (min-width: 0){
+    .sobre__imagem{
+        height: 150px;
+        width: 150px;
+    }
+}
+
+@media screen and (min-width: 900px){
+    .sobre__imagem{
+        height: 250px;
+        width: 250px;
+    }
+}

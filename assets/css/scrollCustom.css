@@ -3,7 +3,7 @@
 	background-color: #31312B;
 }
 .scrollCustom::-webkit-scrollbar{
-	width: 10px;
+	/* width: 10px; */
 	background-color: #31312B;
 }
 

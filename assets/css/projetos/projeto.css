@@ -1,0 +1,11 @@
+.projeto{
+    background-color: #272727;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5rem;
+    margin-right: 5rem;
+    width: 25%;
+    border-radius: 10px;
+    padding: 2rem 1rem 2rem 1rem;
+    align-items: center;
+}

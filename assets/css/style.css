@@ -3,19 +3,28 @@
 
 @import "./scrollCustom.css";
 
-@import "./cabecalho/cabecalho.css";
-@import "./cabecalho/menu/menu-lista.css";
-@import "./cabecalho/menu/menu-item.css";
-@import "./cabecalho/menu/menu-link.css";
+@import "./cabecalho.css";
+@import "./cabecalho/menu-lista.css";
+@import "./cabecalho/menu-item.css";
+@import "./cabecalho/menu-link.css";
 
 @import "./sobre.css";
-@import "./sobreMim/sobreMim.css";
-@import "./sobreMim/sobreMim-imagem.css";
-@import "./sobreMim/sobreMim-nome.css";
-@import "./sobreMim/sobreMim-tracoHorizontal.css";
-@import "./sobreMim/sobreMim-subtitulo.css";
+@import "./sobre/sobre-imagem.css";
+@import "./sobre/sobre-blocoTextos.css";
+@import "./sobre/sobre-nome.css";
+@import "./sobre/sobre-tracoHorizontal.css";
+@import "./sobre/sobre-subtitulo.css";
+@import "./sobre/sobre-descricao.css";
+
+@import "./projetos.css";
+@import "./projetos/projeto.css";
+@import "./projetos/projeto-conteudo.css";
+@import "./projetos/projeto-imagem.css";
+@import "./projetos/projeto-titulo.css";
+@import "./projetos/projeto-descricao.css";
+@import "./projetos/projeto-botaoGitHub.css";
 
 body{
     font-family: Montserrat, sans-serif;
-    background-color: #1A1A1A;
+    background-color: #1a1a1a;
 }
