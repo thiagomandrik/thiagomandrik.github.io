@@ -21,8 +21,9 @@
 @import "./projetos/projeto-conteudo.css";
 @import "./projetos/projeto-imagem.css";
 @import "./projetos/projeto-titulo.css";
+@import "./projetos/projeto-tracoHorizontal.css";
 @import "./projetos/projeto-descricao.css";
-@import "./projetos/projeto-botaoGitHub.css";
+@import "./projetos/projeto-link.css";
 
 body{
     font-family: Montserrat, sans-serif;

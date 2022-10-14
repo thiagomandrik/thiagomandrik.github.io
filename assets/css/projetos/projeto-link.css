@@ -1,0 +1,31 @@
+.projeto__link{
+    padding: 10px;
+    background-color: #5C2E30;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.projeto__link:hover{
+    background-color: #4a2526;
+    transition-duration: 0.5s;
+}
+
+@media screen and (min-width: 0){
+    .projeto__link{
+        width: 30px;
+        height: 30px;
+        margin: 8px;
+    }
+}
+
+@media screen and (min-width: 700px){
+    .projeto__link{
+        width: 45px;
+        height: 45px;
+        margin: 15px;
+    }
+}
+
+.projeto__link--off{
+    display: none;
+}

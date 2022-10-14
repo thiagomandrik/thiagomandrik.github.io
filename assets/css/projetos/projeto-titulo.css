@@ -1,0 +1,8 @@
+.projeto__titulo{
+    color: #C8B7B7;
+    text-shadow: 0 0 2px #C8B7B7;
+    font-size: 1.15rem;
+    text-transform: uppercase;
+    padding-top: 2rem;
+    font-weight: bold;
+}

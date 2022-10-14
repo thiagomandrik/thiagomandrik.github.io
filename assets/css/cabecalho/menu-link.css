@@ -14,8 +14,8 @@
 .menu__link:after{
     position: absolute;
     left: 50%;
-	content: '';
-	height: 2px;
+    content: '';
+    height: 2px;
     background: #5c2e30;
     transition: all 0.2s linear;
     width: 0;
@@ -23,15 +23,16 @@
 }
 
 .menu__link:hover:after {
-	width: 100%;
+    position: absolute;
+    width: 100%;
     margin-left: -50%;
 }
-
 @media screen and (min-width: 0){
     .menu__link{
         font-size: 12px;
     }
 }
+
 
 @media screen and (min-width: 700px){
     .menu__link{
