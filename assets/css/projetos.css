@@ -1,8 +1,21 @@
 .projetos{
     background-color: #333;
-    padding: 5rem 0rem 0rem 5rem;
+    padding: 5rem 0 5rem 0;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    /* justify-content: center; */
 }
 
+@media screen and (min-width: 0){
+    .projetos{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 1000px){
+    .projetos{
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
