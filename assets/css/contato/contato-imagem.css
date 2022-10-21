@@ -1,0 +1,22 @@
+.contato__imagem{
+    background-color: #5c2e30;
+    border-radius: 20px;
+    padding: 1.5rem;
+    
+}
+
+@media screen and (min-width: 0){
+    .contato__imagem{
+        width: 80px;
+        height: 80px;
+        margin: 1rem;
+    }
+}
+
+@media screen and (min-width: 1000px){
+    .contato__imagem{
+        width: 120px;
+        height: 120px;
+        margin: 2rem;
+    }
+}

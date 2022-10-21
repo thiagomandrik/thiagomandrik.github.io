@@ -1,0 +1,38 @@
+.contato__titulo{
+    padding-top: 2rem;
+    text-align: center;
+    color: #C8B7B7;
+    text-shadow: 0 0 2px #C8B7B7;
+}
+
+.contato__titulo h1{
+    /* text-transform: uppercase; */
+    font-size: 2rem;
+}
+
+.contato__titulo hr{
+    width: 60%;
+    background-color: #5C2E30;
+    padding: 1px;
+    border-style: none;
+}
+
+@media screen and (min-width: 0){
+    .contato__titulo h1{
+        font-size: 1.5rem
+    }
+
+    .contato__titulo h2{
+        font-size: 1.25rem
+    }
+}
+
+@media screen and (min-width: 1000px){
+    .contato__titulo h1{
+        font-size: 2rem
+    }
+
+    .contato__titulo h2{
+        font-size: 1.5rem
+    }
+}

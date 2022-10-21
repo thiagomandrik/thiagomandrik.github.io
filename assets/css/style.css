@@ -25,6 +25,11 @@
 @import "./projetos/projeto-descricao.css";
 @import "./projetos/projeto-link.css";
 
+@import "./contato.css";
+@import "./contato/contato-imagem.css";
+@import "./contato/contato-titulo.css";
+@import "./contato/contato-links.css";
+
 @import "./rodape.css";
 @import "./rodape/rodape-texto.css";
 
