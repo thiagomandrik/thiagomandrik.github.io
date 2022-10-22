@@ -1,6 +1,6 @@
 .rodape__texto{
-    color: var(--corTextos);
-    text-shadow: 0 0 2px var(--corTextos);
+    color: var(--corTextoCabecalhoRodape);
+    /* text-shadow: 0 0 2px var(--corTextoCabecalhoRodape); */
     font-size: 0.9rem;
 }
 

@@ -1,13 +1,11 @@
 .menu__link{
-    color: var(--corTextos);
+    color: var(--corTextoCabecalhoRodape);
     text-decoration: none;
     padding-bottom: 5px;
     padding-left: 20px;
     padding-right: 20px;
     text-transform: uppercase;
-    font-weight: 500;
     text-shadow: 0 0 1px  var(--corTextos);
-    font-size: 1.123rem;
     position: relative;
 }
 
@@ -29,14 +27,14 @@
 }
 @media screen and (min-width: 0){
     .menu__link{
-        font-size: 12px;
+        font-size: 1rem;
     }
 }
 
 
 @media screen and (min-width: 700px){
     .menu__link{
-        font-size: 1.123rem
+        font-size: 1.5rem
     }
     
 }

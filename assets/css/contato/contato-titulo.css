@@ -2,7 +2,7 @@
     padding-top: 2rem;
     text-align: center;
     color: var(--corTextos);
-    text-shadow: 0 0 2px var(--corTextos);
+    /* text-shadow: 0 0 2px var(--corTextos); */
 }
 
 .contato__titulo h1{
@@ -19,20 +19,20 @@
 
 @media screen and (min-width: 0){
     .contato__titulo h1{
-        font-size: 1.5rem
+        font-size: 1rem
     }
 
     .contato__titulo h2{
-        font-size: 1.25rem
+        font-size: 0.75rem
     }
 }
 
 @media screen and (min-width: 1000px){
     .contato__titulo h1{
-        font-size: 2rem
+        font-size: 1.5rem
     }
 
     .contato__titulo h2{
-        font-size: 1.5rem
+        font-size: 1.25rem
     }
 }

@@ -1,9 +1,21 @@
 html{
     --corCabecalhoRodape: #1A1A1A;
-    --corTextos: #C8B7B7;
-    --corDetalhesBotoes: #5c2e30;
-    --corBotaoHover: #4a2526;
+    --corTextos: #c5c0c0;
+    --corTextoCabecalhoRodape:#c5c0c0;
+    --corDetalhesBotoes: #481935;
+    --corBotaoHover: #341327;
     --corScrollTrack:#31312B;
     --corBg1: #272727;
     --corBg2: #333;
 }
+
+/* html{
+    --corCabecalhoRodape: #201b1b;
+    --corTextos: #210c19;
+    --corTextoCabecalhoRodape:#ddd6d6;
+    --corDetalhesBotoes: #845a6f;
+    --corBotaoHover: #634353;
+    --corScrollTrack: #92828a;
+    --corBg1: #ddd6d6;
+    --corBg2: #f0ecec;
+} */

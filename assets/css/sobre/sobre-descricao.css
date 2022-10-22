@@ -1,7 +1,7 @@
 .sobre__descricao{
     padding-top: 20px;
     color: var(--corTextos);
-    text-shadow: 0 0 2px var(--corTextos);
+    /* text-shadow: 0 0 2px var(--corTextos); */
 }
 
 @media screen and (min-width: 0){
