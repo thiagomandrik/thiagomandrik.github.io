@@ -1,5 +1,5 @@
 .sobre{
-    background-color: #272727;
+    background-color: var(--corBg1);
     position: relative;
     display: flex;
     text-align: center;

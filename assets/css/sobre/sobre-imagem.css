@@ -1,8 +1,8 @@
 .sobre__imagem{
     border-radius: 100%;
     border-style: solid;
-    border-color: #5C2E30;
-    box-shadow: 0 0 5px #5C2E30;
+    border-color: var(--corDetalhesBotoes);
+    box-shadow: 0 0 5px var(--corDetalhesBotoes);
     height: 250px;
     width: 250px;
     position: relative;

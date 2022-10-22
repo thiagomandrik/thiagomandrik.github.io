@@ -1,9 +1,9 @@
 .sobre__nome{
-    color: #C8B7B7;
+    color: var(--corTextos);
     /* padding-top: 2rem; */
     /* display: flex;*/
     position: relative;
-    text-shadow: 0 0 3px  #C8B7B7;
+    text-shadow: 0 0 3px  var(--corTextos);
     font-weight: 600;
     font-size: 3rem;
 

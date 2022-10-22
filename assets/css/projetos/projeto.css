@@ -1,5 +1,5 @@
 .projeto{
-    background-color: #272727;
+    background-color: var(--corBg1);
     display: flex;
     flex-direction: column;
     margin-bottom: 5rem;

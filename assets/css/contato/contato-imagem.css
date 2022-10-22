@@ -1,8 +1,13 @@
 .contato__imagem{
-    background-color: #5c2e30;
+    background-color: var(--corDetalhesBotoes);
     border-radius: 20px;
     padding: 1.5rem;
     
+}
+
+.contato__imagem:hover{
+    background-color: var(--corBotaoHover);
+    transition-duration: 0.5s;
 }
 
 @media screen and (min-width: 0){

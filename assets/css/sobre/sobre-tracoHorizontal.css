@@ -1,6 +1,6 @@
 .sobre__tracoHorizontal{
     width: 60%;
-    background-color: #5C2E30;
+    background-color: var(--corDetalhesBotoes);
     padding: 1px;
     border-style: none;
 }

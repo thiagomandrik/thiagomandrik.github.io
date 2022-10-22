@@ -1,13 +1,15 @@
+@import "./coresTemaPadrao.css";
+
 .scrollCustom::-webkit-scrollbar-track {
 	border-radius: 10px;
-	background-color: #31312B;
+	background-color: var(--corScrollTrack);
 }
 .scrollCustom::-webkit-scrollbar{
 	/* width: 10px; */
-	background-color: #31312B;
+	background-color: var(--corScrollTrack);
 }
 
 .scrollCustom::-webkit-scrollbar-thumb{
 	border-radius: 10px;
-	background-color: #5C2E30;
+	background-color: var(--corDetalhesBotoes);
 }

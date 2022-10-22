@@ -1,12 +1,12 @@
 .projeto__link{
     padding: 10px;
-    background-color: #5C2E30;
-    border-radius: 5px;
+    background-color: var(--corDetalhesBotoes);
+    border-radius: 10px;
     display: inline-block;
 }
 
 .projeto__link:hover{
-    background-color: #4a2526;
+    background-color: var(--corBotaoHover);
     transition-duration: 0.5s;
 }
 

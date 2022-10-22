@@ -1,12 +1,12 @@
 .menu__link{
-    color: #C8B7B7;
+    color: var(--corTextos);
     text-decoration: none;
     padding-bottom: 5px;
     padding-left: 20px;
     padding-right: 20px;
     text-transform: uppercase;
     font-weight: 500;
-    text-shadow: 0 0 1px  #C8B7B7;
+    text-shadow: 0 0 1px  var(--corTextos);
     font-size: 1.123rem;
     position: relative;
 }
@@ -16,7 +16,7 @@
     left: 50%;
     content: '';
     height: 2px;
-    background: #5c2e30;
+    background: var(--corDetalhesBotoes);
     transition: all 0.2s linear;
     width: 0;
     bottom: -5px;

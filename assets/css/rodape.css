@@ -1,6 +1,8 @@
-/* .rodape{
-
-} */
+.rodape{
+    background-color: var(--corCabecalhoRodape);
+    width: 100%;
+    position: absolute;
+}
 
 @media screen and (min-width: 0){
     .rodape{

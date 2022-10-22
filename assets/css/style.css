@@ -1,5 +1,6 @@
 @import "./normalize.css";
 @import "./reset.css";
+@import "./coresTemaPadrao.css";
 
 @import "./scrollCustom.css";
 
@@ -32,8 +33,3 @@
 
 @import "./rodape.css";
 @import "./rodape/rodape-texto.css";
-
-body{
-    font-family: Montserrat, sans-serif;
-    background-color: #1a1a1a;
-}
