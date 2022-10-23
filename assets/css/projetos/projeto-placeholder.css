@@ -1,0 +1,35 @@
+.projeto__placeholderCirculoExterno{
+    background-color: var(--corPlaceholderCirculoExterno);
+    width: 12rem;
+    height: 12rem;
+    border-radius: 100%;    
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.projeto__placeholderCirculoInterno{
+    text-align: center;
+    background-color: var(--corPlaceholderCirculoInterno);
+    width: 10.5rem;
+    height: 10.5rem;
+    border-radius: 100%;
+
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.projeto_placeholderTexto{
+    color: var(--corPlaceholderTexto);
+    font-size: 5rem;
+    font-weight: 800;
+    letter-spacing: 4px;
+    font-family: "Mongolian Baiti";
+    margin: 0;
+}

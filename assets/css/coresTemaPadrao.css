@@ -7,6 +7,9 @@ html{
     --corScrollTrack:#31312B;
     --corBg1: #272727;
     --corBg2: #333;
+    --corPlaceholderCirculoExterno:#333;
+    --corPlaceholderCirculoInterno:#481935;
+    --corPlaceholderTexto:#c5c0c0;
 }
 
 /* html{
@@ -18,4 +21,7 @@ html{
     --corScrollTrack: #92828a;
     --corBg1: #ddd6d6;
     --corBg2: #f0ecec;
+    --corPlaceholderCirculoExterno:#481935;
+    --corPlaceholderCirculoInterno:#845a6f;
+    --corPlaceholderTexto:#c8b7b7;
 } */
