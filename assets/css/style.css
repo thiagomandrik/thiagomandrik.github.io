@@ -17,6 +17,9 @@
 @import "./sobre/sobre-tracoHorizontal.css";
 @import "./sobre/sobre-subtitulo.css";
 @import "./sobre/sobre-descricao.css";
+@import "./sobre/conhecimentos.css";
+@import "./sobre/conhecimento/conhecimentos-conhecimento.css";
+@import "./sobre/conhecimento/conhecimentos-logo.css";
 
 @import "./projetos.css";
 @import "./projetos/projeto.css";
