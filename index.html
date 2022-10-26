@@ -1,4 +1,5 @@
-<html lang="pt-br">
+<!DOCTYPE html>
+<html lang="pt-br" class="theme">
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
@@ -18,6 +19,12 @@
                 <!-- <li class="menu__item"><a class="menu__link" href="#">Conhecimentos</a></li> -->
             </ul>
         </nav>
+        <label class="toggle-switchy" for="themeSelector" data-size="sm" data-text="false" data-style="rounded">
+            <input checked type="checkbox" id="themeSelector" name="botaoThemeSelect" class="botaoThemeSelect">
+            <span class="toggle">
+                <span class="switch"></span>
+            </span>
+        </label>
     </header>
 
     <section id="sobre" class="sobre">
@@ -30,7 +37,7 @@
         </div>
     </section>
 
-    <section id="projetos" class="projetos"">
+    <section id="projetos" class="projetos">
         <div class="projeto">
             <div class="projeto__placeholderCirculoExterno">
                 <div class="projeto__placeholderCirculoInterno">
@@ -95,5 +102,7 @@
     <footer class="rodape">
         <p class="rodape__texto">Desenvolvido por Thiago Mandrik</p>
     </footer>
+
+    <script src="./assets/scripts/main.js"></script>
 </body>
 </html>

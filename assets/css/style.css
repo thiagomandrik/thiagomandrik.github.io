@@ -1,8 +1,9 @@
 @import "./normalize.css";
 @import "./reset.css";
-@import "./coresTemaPadrao.css";
 
+@import "./coresTemaPadrao.css";
 @import "./scrollCustom.css";
+@import "./cabecalho/toggle-switchy.css";
 
 @import "./cabecalho.css";
 @import "./cabecalho/menu-lista.css";

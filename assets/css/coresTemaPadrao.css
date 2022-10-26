@@ -1,4 +1,4 @@
-html{
+.theme{
     --corCabecalhoRodape: #1A1A1A;
     --corTextos: #c5c0c0;
     --corTextoCabecalhoRodape:#c5c0c0;
@@ -12,7 +12,7 @@ html{
     --corPlaceholderTexto:#c5c0c0;
 }
 
-/* html{
+.themeLigth{
     --corCabecalhoRodape: #201b1b;
     --corTextos: #210c19;
     --corTextoCabecalhoRodape:#ddd6d6;
@@ -24,4 +24,4 @@ html{
     --corPlaceholderCirculoExterno:#481935;
     --corPlaceholderCirculoInterno:#845a6f;
     --corPlaceholderTexto:#c8b7b7;
-} */
+}

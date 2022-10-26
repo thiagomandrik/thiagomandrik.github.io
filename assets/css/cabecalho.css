@@ -2,9 +2,11 @@
     align-items: center;
     background-color: var(--corCabecalhoRodape);
     display: flex;
-    height: 60px;
-    justify-content: space-around;
+    /* height: 60px; */
+    justify-content: center;
     position: fixed;
     width: 100%;
     z-index: 90000;
+    flex-wrap: wrap;
+    padding-bottom: 1rem;
 }
