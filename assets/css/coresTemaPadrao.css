@@ -10,6 +10,7 @@
     --corPlaceholderCirculoExterno:#333;
     --corPlaceholderCirculoInterno:#481935;
     --corPlaceholderTexto:#c5c0c0;
+    --corLinkDesabilitado:#aba5a5;
 }
 
 .themeLigth{
@@ -24,4 +25,5 @@
     --corPlaceholderCirculoExterno:#481935;
     --corPlaceholderCirculoInterno:#845a6f;
     --corPlaceholderTexto:#c8b7b7;
+    --corLinkDesabilitado:#aba5a5;
 }

@@ -33,3 +33,35 @@
     font-family: "PT Serif";
     margin: 0;
 }
+
+@media screen and (min-width: 0){
+    .projeto__placeholderCirculoExterno{
+        width: 10rem;
+        height: 10rem;
+    }
+    
+    .projeto__placeholderCirculoInterno{
+        width: 8.5rem;
+        height: 8.5rem;  
+    }
+    
+    .projeto_placeholderTexto{
+        font-size: 4rem;
+    }
+}
+
+@media screen and (min-width: 700px){
+    .projeto__placeholderCirculoExterno{
+        width: 12rem;
+        height: 12rem;
+    }
+    
+    .projeto__placeholderCirculoInterno{
+        width: 10.5rem;
+        height: 10.5rem;  
+    }
+    
+    .projeto_placeholderTexto{
+        font-size: 5rem;
+    }
+}

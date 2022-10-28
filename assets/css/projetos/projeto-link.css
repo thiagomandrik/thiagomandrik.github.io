@@ -10,8 +10,22 @@
     transition-duration: 0.5s;
 }
 
+.projeto__link--off{
+    padding: 10px;
+    background-color: var(--corLinkDesabilitado);
+    border-radius: 10px;
+    display: inline-block;
+    cursor: default;
+}
+
 @media screen and (min-width: 0){
     .projeto__link{
+        width: 30px;
+        height: 30px;
+        margin: 8px;
+    }
+
+    .projeto__link--off{
         width: 30px;
         height: 30px;
         margin: 8px;
@@ -24,8 +38,10 @@
         height: 45px;
         margin: 15px;
     }
-}
 
-.projeto__link--off{
-    display: none;
+    .projeto__link--off{
+        width: 45px;
+        height: 45px;
+        margin: 15px;
+    }
 }
