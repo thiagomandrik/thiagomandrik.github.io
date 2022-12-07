@@ -1,6 +1,5 @@
 .projeto__imagem{
-    /* width: 250px;
-    height: 250px; */
-    width: 70%;
-
+    border-radius: 100%;
+    width: 11rem;
+    height: 11rem;
 }
